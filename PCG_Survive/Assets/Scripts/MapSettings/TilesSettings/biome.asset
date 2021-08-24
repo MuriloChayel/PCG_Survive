@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b17892d065dfd4594c99a7da6a6ebb, type: 3}
+  m_Name: biome
+  m_EditorClassIdentifier: 
+  sandSpread: 0
+  generateTiles:
+  - {fileID: 11400000, guid: b85fc367c0ab86d42a30748dbe78ca76, type: 2}
+  - {fileID: 11400000, guid: 751f257be77f3cd488a0ec4c52e8d26f, type: 2}
+  intensity: 0
