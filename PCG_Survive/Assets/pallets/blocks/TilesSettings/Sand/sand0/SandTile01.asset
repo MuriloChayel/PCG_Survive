@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fe8f36c5a2aaa4a8b2e40aff7c64bf, type: 3}
+  m_Name: SandTile01
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: de9325f1219a6844ba231ad06871dafc, type: 2}
+  - {fileID: 11400000, guid: b575ef66277ecc943b8febd03fed73b8, type: 2}
+  - {fileID: 11400000, guid: 8a10344e7e04f6c46a93e7159d781b97, type: 2}
+  - {fileID: 11400000, guid: fcf1110b105a9b345befae724db675bf, type: 2}
+  - {fileID: 11400000, guid: 4332438d9e2ca264d999a12da017ee2c, type: 2}
+  - {fileID: 11400000, guid: 57a9483633d851b49bc26472f48c1c81, type: 2}
+  - {fileID: 11400000, guid: a6e2ee709ef863049894256c60e3c0dd, type: 2}
+  - {fileID: 11400000, guid: 5bcf30c72311a6d41b6f43bdc863b67b, type: 2}
+  - {fileID: 11400000, guid: d888fc95b05310149b0f15067cda4824, type: 2}
+  - {fileID: 11400000, guid: 9eaf7826755940d43a937393823ca652, type: 2}
+  - {fileID: 11400000, guid: a941066b21a2a6f439c40035abc578be, type: 2}
+  - {fileID: 11400000, guid: 7de002d82bec29142b4860dc26820aef, type: 2}
+  - {fileID: 11400000, guid: b2d4244336f65c544bc2bc84d9f05d6a, type: 2}
+  - {fileID: 11400000, guid: 4b7c56cf5be1b7f4b81b12b70048d039, type: 2}
+  - {fileID: 11400000, guid: da6d4bb61bb99dc48b46f06eba3bcbb5, type: 2}
+  - {fileID: 11400000, guid: ee16dca08848c9e4daccff03ce96f215, type: 2}

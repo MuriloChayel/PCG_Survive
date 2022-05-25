@@ -6,18 +6,16 @@ using UnityEngine.Tilemaps;
 [CreateAssetMenu(menuName = "GenerateTiles")]
 public class GenerateTilesInMap : ScriptableObject
 {
-    public TileBase[] tileType;
+    public TileBase[] tiles;
 
-    [Range(0,.5f)]
-    public float sandAmount;
-    // 
+    //ID = tipo do bloco
     public void FillMap(Vector3Int pos, int id, Tilemap targetTilemap)
     {
-        targetTilemap.SetTile(pos, tileType[0]);
+        targetTilemap.SetTile(pos, tiles[id]);
     }
     public TileBase GetTileBase(int id)
     {
-        return tileType[id];
+        return tiles[id];
     }
 }
 

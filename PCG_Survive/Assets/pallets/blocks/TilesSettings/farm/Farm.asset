@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1fe8f36c5a2aaa4a8b2e40aff7c64bf, type: 3}
+  m_Name: Farm
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 425e6189e10d72746a01f8f6faf550df, type: 2}
+  - {fileID: 11400000, guid: 75c2b52e425a6d043b615bb6ec6adaee, type: 2}
+  - {fileID: 11400000, guid: c63a233077121f844ab3351bce2071a9, type: 2}
+  - {fileID: 11400000, guid: 998e58c9a79d8ab49be6863526bc7dd7, type: 2}
+  - {fileID: 11400000, guid: e39d51014cc33934aaf139bf3bd57980, type: 2}
+  - {fileID: 11400000, guid: 556e1645c0ad149478dd017b555d2a1a, type: 2}
+  - {fileID: 11400000, guid: 3a2c4445ad77c13498a7b0ab44d307d2, type: 2}
+  - {fileID: 11400000, guid: eab275d9321134a4caf3479f513bcaa6, type: 2}
+  - {fileID: 11400000, guid: 7b6408b8fc5633a449e72d1f68675402, type: 2}
+  - {fileID: 11400000, guid: 459aceaace5914f4fbe5cd49b052575c, type: 2}
+  - {fileID: 11400000, guid: 60c90decc135eed43979ed236f3b1f4b, type: 2}
+  - {fileID: 11400000, guid: ad80e10148445df4aa39210b38d33005, type: 2}
+  - {fileID: 11400000, guid: 0eb74ad854669934e80a4fe052d11271, type: 2}
+  - {fileID: 11400000, guid: 872e3a3ce9cab91438048fe3faa90ab5, type: 2}
+  - {fileID: 11400000, guid: 1154ae86ac04216468664d3aaa50508a, type: 2}
+  - {fileID: 11400000, guid: b212d39bb84ed524abb8b1dcd6504243, type: 2}
